@@ -28,4 +28,4 @@ var duplicateZeros = function (arr) {
   console.log("*** ", arr);
 };
 
-duplicateZeros([1, 2, 0, 3, 0, 4]);
+duplicateZeros([1, 0, 0, 3, 0, 4]);
